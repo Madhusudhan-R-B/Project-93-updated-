@@ -1,0 +1,12 @@
+#heading{
+    font-family: 'Comfortaa', cursive;
+}
+
+body{
+    background-color:lightskyblue;
+}
+
+#make_room_input{
+    font-size: 30px;
+    border-radius: 20px;
+}
